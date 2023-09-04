@@ -8,9 +8,8 @@ boostrap .css kullanıldı
 ## Gereksinimler
 responsive tasarım uygulandı
 ## Kurulum
-1. Repoyu klonlayın: `git clonehttps://github.com/bahattinzengin/github-clone`
-2. Proje klasörüne gidin: `github-clone`
-3. index.html dosyasını tarayıcınızda açın
+1. Repoyu klonlayın: gh repo clone bahattinzengin/udemingbuild
+2. index.html dosyasını tarayıcınızda açın
 
 
 
